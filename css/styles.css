@@ -146,6 +146,14 @@ body {
   text-align: right;
 }
 
+.page-logo{
+  margin-top: -30px;
+  width: 200px;
+  height: 70px;
+  filter: brightness(0) invert(1);
+}
+
+
 .navigation-list {
   list-style-type: none;
 }
