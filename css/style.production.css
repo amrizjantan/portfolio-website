@@ -24,7 +24,11 @@ body {
     /* Sets the font size to 16px */
     line-height: var(--line-height);
     /* Sets the line-height to 1.6 */
+<<<<<<< HEAD
     margin: var(--body-margin);
+=======
+    margin: 8px;
+>>>>>>> gh-pages
   }
 
   header {
@@ -170,7 +174,11 @@ body {
 .navigation-list li {
   display: inline-block;
   margin-left: 15px;
+<<<<<<< HEAD
   padding:3px;
+=======
+  padding: 5px;
+>>>>>>> gh-pages
 }
 
 
