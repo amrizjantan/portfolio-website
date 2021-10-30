@@ -7,7 +7,7 @@
 
 
 :root {
-  --primary-color:#efe2f1;
+  --primary-color:#f5e8f7;
   --secondary-color: #a1e5fa;
   --text-color: #050505;
   --body-font-size: 14px;
@@ -18,7 +18,6 @@
  
 body {
     background-color: var(--primary-color);
-    background-color: #f4ccf8;
     font-family: 'Goldman', sans-serif;
     font-weight: var(--body-font-weight);
     font-size: var(--body-font-size);
