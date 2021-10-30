@@ -163,11 +163,8 @@ body {
 .navigation-list li {
   display: inline-block;
   margin-left: 15px;
-<<<<<<< HEAD
   padding:3px;
-=======
   padding: 5px;
->>>>>>> gh-pages
 }
 
 
