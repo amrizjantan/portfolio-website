@@ -1,6 +1,6 @@
 
 :root {
-  --primary-color: #ef9cf7;
+  --primary-color:#f9e5fc;
   --secondary-color: #a1e5fa;
   --text-color: #050505;
   --body-font-size: 14px;
@@ -32,7 +32,7 @@ body {
   }
 
   a {
-    color: #50f041;
+    color: #5917f3;
   }
 
 
@@ -43,7 +43,7 @@ body {
 
   a:hover {
     /* No underlining when hovering over a link */
-    color: #09ff00;
+    color: #ff00aa;
     text-decoration: none;
   }
   
@@ -150,10 +150,9 @@ body {
 }
 
 .page-logo{
-  margin-top: -30px;
+  margin-top:10px;
   width: 200px;
   height: 70px;
-  filter: brightness(0) invert(1);
 }
 
 
