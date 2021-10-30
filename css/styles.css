@@ -1,6 +1,7 @@
 
 :root {
   --primary-color:#f5e8f7;
+  --primary-color:  #f4ccf8;
   --secondary-color: #a1e5fa;
   --text-color: #050505;
   --body-font-size: 14px;
@@ -33,6 +34,7 @@ body {
 
   a {
     color: #5917f3;
+    color: #2d0bf0;
   }
 
 
@@ -153,8 +155,11 @@ body {
   margin-top:20px;
   width: 200px;
   height: 70px;
-}
 
+  margin-top: 10px;
+  width: 200px;
+  height: 70px;
+}
 
 .navigation-list {
   list-style-type: none;
